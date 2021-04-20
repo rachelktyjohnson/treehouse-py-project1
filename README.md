@@ -1,4 +1,4 @@
-# treehouse-py-project1
+# Treehouse Python TechDegree - Project 1
 The Number Guessing Game
 
 ## Rubric Check
